@@ -29,7 +29,7 @@ let weather = {
       var x = Math.round(temp);
       var y = Math.round(temp_max);
       var z = Math.round(temp_min);
-      document.querySelector(".city").innerText = "El clima en " + name;
+      document.querySelector(".city").innerText = "El Clima en " + name;
       document.querySelector(".icon").src =
         "https://openweathermap.org/img/wn/" + icon + ".png";
       document.querySelector(".description").innerText = description;
