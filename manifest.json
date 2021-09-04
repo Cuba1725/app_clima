@@ -3,7 +3,7 @@
     "short_name": "Cuba",
     "description": "Aplicación del clima, ejercicio de javascript",
     "background_color": "#2f4858",
-    "theme_color": "#2f4858",
+    "theme_color": "#37323e",
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "./?utm_source=web_app_manifest",
